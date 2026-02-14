@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **For any opportunity or meetups, find me at: rishuuppal0123@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/17KO3dDmDK6Xj-QRhD-7RxL_fbb819IP3/edit?usp=sharing&ouid=106669443558855235715&rtpof=true&sd=true](https://docs.google.com/document/d/17KO3dDmDK6Xj-QRhD-7RxL_fbb819IP3/edit?usp=sharing&ouid=106669443558855235715&rtpof=true&sd=true)
+- 📄 My Resume: [https://docs.google.com/document/d/17KO3dDmDK6Xj-QRhD-7RxL_fbb819IP3/edit?usp=sharing&ouid=106669443558855235715&rtpof=true&sd=true](https://docs.google.com/document/d/17KO3dDmDK6Xj-QRhD-7RxL_fbb819IP3/edit?usp=sharing&ouid=106669443558855235715&rtpof=true&sd=true)
 
 - ⚡ Fun fact **Despite being a software developer, I still spend an extraordinary amount of time debugging my own life, hoping for that 'code without bugs' kind of perfection!**
 
@@ -32,7 +32,6 @@
 - Jetpack Compose  
 - Compose Multiplatform 
 
-#### 🗄 Databases & Networking
 #### 🗄 Databases & Networking
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
@@ -68,5 +67,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rishuuppal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rishuuppal" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishuuppal0123&show_icons=true&locale=en&layout=compact" alt="rishuuppal0123" /></p>
