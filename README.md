@@ -25,7 +25,7 @@
 #### 🔁 Cross Platform & Android
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/>
-<img src="https://developer.android.com/images/brand/Android_Robot.png" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/>
 </p>
 
 - Kotlin Multiplatform (KMP / KMM)  
