@@ -35,7 +35,7 @@
 #### 🗄 Databases & Networking
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" width="40" height="40"/>
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg](https://uxwing.com/rest-api-icon/)" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/realm/realm-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </p>
