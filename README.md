@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://rishavuppal.vercel.app/](https://rishavuppal.vercel.app/)
 
-- 📫 How to reach me **For any opportunity or meetups, find me at: rishuuppal0123@gmail.com**
+- 📫 How to reach me **For any opportunity or meetups, find me at: rishavuppal7668@gmail.com**
 
-- 📄 My Resume: [https://docs.google.com/document/d/17KO3dDmDK6Xj-QRhD-7RxL_fbb819IP3/edit?usp=sharing&ouid=106669443558855235715&rtpof=true&sd=true](https://docs.google.com/document/d/17KO3dDmDK6Xj-QRhD-7RxL_fbb819IP3/edit?usp=sharing&ouid=106669443558855235715&rtpof=true&sd=true)
+- 📄 My Resume: [Link](https://docs.google.com/document/d/17KO3dDmDK6Xj-QRhD-7RxL_fbb819IP3/edit?usp=sharing&ouid=106669443558855235715&rtpof=true&sd=true)
 
 - ⚡ Fun fact **Despite being a software developer, I still spend an extraordinary amount of time debugging my own life, hoping for that 'code without bugs' kind of perfection!**
 
@@ -34,8 +34,8 @@
 
 #### 🗄 Databases & Networking
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/realm/realm-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </p>
