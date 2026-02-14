@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **For any opportunity or meetups, find me at: rishavuppal7668@gmail.com**
 
-- 📄 My Resume: [Link](https://docs.google.com/document/d/17KO3dDmDK6Xj-QRhD-7RxL_fbb819IP3/edit?usp=sharing&ouid=106669443558855235715&rtpof=true&sd=true)
+- 📄 My Resume: [Link](https://docs.google.com/document/d/163YtypgzhpzbV7IFMBqzkLpId3_xUfij/edit?usp=sharing&ouid=106669443558855235715&rtpof=true&sd=true)
 
 - ⚡ Fun fact **Despite being a software developer, I still spend an extraordinary amount of time debugging my own life, hoping for that 'code without bugs' kind of perfection!**
 
