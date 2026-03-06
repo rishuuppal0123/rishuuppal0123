@@ -3,7 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishuuppal0123&label=Profile%20views&color=0e75b6&style=flat" alt="rishuuppal0123" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishuuppal28" target="blank"><img src="https://img.shields.io/twitter/follow/rishuuppal28?logo=twitter&style=for-the-badge" alt="rishuuppal28" /></a> </p>
+<p align="center">
+  
+<a href="https://www.linkedin.com/in/rishavuppal">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/rishuuppal28">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://instagram.com/rishu_uppal28">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:rishavuppal7668@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 - 👨‍💻 All of my projects are available at [https://rishavuppal.vercel.app/](https://rishavuppal.vercel.app/)
 
